@@ -1,0 +1,85 @@
+{
+  "": {
+    "meta": {
+      "messages": ["Gói ngôn ngữ tiếng Việt cho VS Code"],
+      "keys": []
+    }
+  },
+  "vs/platform/actions/common/actions": {
+    "messages": {
+      "file": "Tệp",
+      "edit": "Chỉnh sửa",
+      "view": "Xem",
+      "help": "Trợ giúp",
+      "run": "Chạy",
+      "debug": "Gỡ lỗi",
+      "terminal": "Thiết bị đầu cuối",
+      "newFile": "Tệp mới",
+      "open": "Mở",
+      "save": "Lưu",
+      "saveAs": "Lưu như",
+      "close": "Đóng",
+      "quit": "Thoát",
+      "undo": "Hoàn tác",
+      "redo": "Làm lại",
+      "cut": "Cắt",
+      "copy": "Sao chép",
+      "paste": "Dán",
+      "find": "Tìm",
+      "replace": "Thay thế",
+      "selectAll": "Chọn tất cả",
+      "zoomIn": "Phóng to",
+      "zoomOut": "Thu nhỏ"
+    }
+  },
+  "vs/workbench/browser/parts/editor/editorCommands": {
+    "messages": {
+      "openFile": "Mở tệp...",
+      "openFolder": "Mở thư mục...",
+      "closeEditor": "Đóng trình chỉnh sửa",
+      "closeAllEditors": "Đóng tất cả",
+      "saveFile": "Lưu tệp",
+      "saveFileAs": "Lưu tệp như..."
+    }
+  },
+  "vs/editor/common/languages": {
+    "messages": {
+      "plainText": "Văn bản thuần",
+      "markdown": "Markdown",
+      "javascript": "JavaScript",
+      "typescript": "TypeScript",
+      "html": "HTML",
+      "css": "CSS",
+      "json": "JSON",
+      "xml": "XML",
+      "php": "PHP",
+      "python": "Python"
+    }
+  },
+  "vs/workbench/browser/parts/panel/panelActions": {
+    "messages": {
+      "close": "Đóng",
+      "togglePanel": "Bật/tắt bảng điều khiển",
+      "focusPanel": "Tập trung vào bảng điều khiển",
+      "toggleMaximizedPanel": "Bật/tắt chế độ phóng to bảng điều khiển",
+      "maximizePanel": "Phóng to bảng điều khiển",
+      "minimizePanel": "Thu nhỏ bảng điều khiển",
+      "toggledPanelPosition": "Chuyển đổi vị trí bảng điều khiển"
+    }
+  },
+  "vs/workbench/contrib/files/browser/fileActions": {
+    "messages": {
+      "newFile": "Tệp mới",
+      "newFolder": "Thư mục mới",
+      "refresh": "Làm mới",
+      "openFileFolder": "Mở tệp/thư mục...",
+      "save": "Lưu",
+      "saveAll": "Lưu tất cả",
+      "revert": "Hoàn tác các thay đổi",
+      "copyPath": "Sao chép đường dẫn",
+      "delete": "Xóa",
+      "compareWithSaved": "So sánh với phiên bản đã lưu",
+      "compareWithClipboard": "So sánh với clipboard"
+    }
+  }
+}
